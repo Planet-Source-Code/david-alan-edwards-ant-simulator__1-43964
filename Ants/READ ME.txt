@@ -1,0 +1,32 @@
+Welcome to my Ant Sim.
+
+----------------------------------------------
+
+Colours:
+	Yellow = Solder Ant
+	Blue = Digger Ant
+	White = Food Collector Ant
+	Red = Enemy
+
+Abreviations:
+	S = Soldier
+	D = Digger
+	F = Food Collector
+
+----------------------------------------------
+
+What happens in this simulator is this:
+
+When the food drops below a certain point all
+ants turn into collector ants to try to
+stabilise the food supply.
+
+If an enemy appears then the soldier ants
+head to attack it.
+
+Digger ants dig areas around the queen.
+
+----------------------------------------------
+
+This is just a bit of fun and nothing to be
+taken seriously!
